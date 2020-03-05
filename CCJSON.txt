@@ -1,0 +1,15 @@
+{
+  "games" : [ {
+    "gameName" : "",
+    "armies" : null,
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  }, {
+    "gameName" : "All Quiet on the Martian Front",
+    "armies" : null,
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Pts", "Elements" ]
+  } ]
+}
