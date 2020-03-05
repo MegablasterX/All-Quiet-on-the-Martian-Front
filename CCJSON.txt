@@ -1,0 +1,85 @@
+{
+  "games" : [ {
+    "gameName" : "All Quiet on the Martian Front",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "British Infantry Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 3,
+          "optionName" : "Rifles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 4,
+          "optionName" : "Coil Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 6,
+          "optionName" : "Grenade",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 35.0,
+        "unitID" : 1,
+        "autoAddDictionary" : {
+          "3" : "1",
+          "4" : "1",
+          "6" : "2"
+        },
+        "startingModels" : 2,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "British Command Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 0.0,
+          "listOfRestrictions" : null,
+          "optionID" : 5,
+          "optionName" : "Rifles",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 25.0,
+        "unitID" : 2,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : {
+          "Points" : "25"
+        }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "British Expeditionary Force",
+      "armyCategories" : [ "Infantry", "Artillery", "Armored Vehicles", "Other Equipment" ]
+    }, {
+      "listOfRestrictions" : null,
+      "listOfUnits" : null,
+      "listOfEquipmentOptions" : null,
+      "armyName" : "United States Army",
+      "armyCategories" : [ ]
+    }, {
+      "listOfRestrictions" : null,
+      "listOfUnits" : null,
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Martians",
+      "armyCategories" : [ ]
+    } ],
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ "Points" ]
+  } ]
+}
