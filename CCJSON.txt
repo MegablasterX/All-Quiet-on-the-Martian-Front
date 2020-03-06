@@ -1,0 +1,489 @@
+{
+  "games" : [ {
+    "gameName" : "",
+    "armies" : null,
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  }, {
+    "gameName" : "All Quiet on the Martian Front",
+    "armies" : [ {
+      "listOfRestrictions" : null,
+      "listOfUnits" : [ {
+        "unitName" : "US Infantry Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 33,
+          "optionName" : "Forlorn Hope",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 30.0,
+        "unitID" : 1,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "US Command Squad",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 30.0,
+        "unitID" : 2,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Maxim Machine-Gun Squad",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 40.0,
+        "unitID" : 3,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Rough Rider Motorcycle Squad",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 45.0,
+        "unitID" : 4,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "US Cavalry Squad",
+        "listOfOptions" : [ {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 34,
+          "optionName" : "Explosives",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 35.0,
+        "unitID" : 5,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Armored Infantry Squad",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Infantry",
+        "unitCost" : 65.0,
+        "unitID" : 6,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Field Gun Battery",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 80.0,
+        "unitID" : 7,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Heavy Field Gun Battery",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 160.0,
+        "unitID" : 8,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Anti-Tripod Gun",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 80.0,
+        "unitID" : 9,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Holt MA Steamer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 160.0,
+        "unitID" : 10,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mobile Artillery Steamer",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 35,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 220.0,
+        "unitID" : 11,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Heavy Artillery",
+        "listOfOptions" : [ {
+          "optionCost" : 5.0,
+          "listOfRestrictions" : null,
+          "optionID" : 43,
+          "optionName" : "Mounted on a Barbette",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 25.0,
+          "listOfRestrictions" : null,
+          "optionID" : 44,
+          "optionName" : "Mounted on a Armored Turret",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 50.0,
+        "unitID" : 12,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Electric Artillery Steamer",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Artillery",
+        "unitCost" : 350.0,
+        "unitID" : 13,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mk I Steamer Tank",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 120.0,
+        "unitID" : 14,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mk II Steamer Tank",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 165.0,
+        "unitID" : 15,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mk III Steamer Tank",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 225.0,
+        "unitID" : 16,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mk IV Steamer Tank",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 190.0,
+        "unitID" : 17,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mk IV Monitor",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 190.0,
+        "unitID" : 18,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mk IV Flame Tank",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 180.0,
+        "unitID" : 19,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Clamper Tank",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 100.0,
+        "unitID" : 20,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Patton's Mk IV",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Steamer Tanks",
+        "unitCost" : 260.0,
+        "unitID" : 21,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Fuel Tender",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 36,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 15.0,
+        "unitID" : 22,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Munitions Carrier",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 37,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 30.0,
+        "unitID" : 23,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Minelayer",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 38,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 150.0,
+        "unitID" : 24,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Flivvers",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 39,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 0.0,
+        "unitID" : 25,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Flivver Ambulance",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 15.0,
+        "unitID" : 26,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Holt Gun Tractor",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 40,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 25.0,
+        "unitID" : 27,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Field Engineering Unit",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 41,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 60.0,
+        "unitID" : 28,
+        "autoAddDictionary" : { },
+        "startingModels" : 3,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Mk V Goliath",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 375.0,
+        "unitID" : 29,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Ironclad Destroyer Class",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Other Mechanical Units",
+        "unitCost" : 750.0,
+        "unitID" : 30,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Turret",
+        "listOfOptions" : [ {
+          "optionCost" : 10.0,
+          "listOfRestrictions" : null,
+          "optionID" : 42,
+          "optionName" : "Machine-Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 15.0,
+          "listOfRestrictions" : null,
+          "optionID" : 45,
+          "optionName" : "4-inch Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 46,
+          "optionName" : "5-inch Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 30.0,
+          "listOfRestrictions" : null,
+          "optionID" : 47,
+          "optionName" : "Howitzer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 50.0,
+          "listOfRestrictions" : null,
+          "optionID" : 48,
+          "optionName" : "Heavy Howitzer",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        }, {
+          "optionCost" : 20.0,
+          "listOfRestrictions" : null,
+          "optionID" : 49,
+          "optionName" : "Flame Gun",
+          "autoAddDictionary" : { },
+          "modelsAdded" : 0,
+          "listOfCurrencies" : { }
+        } ],
+        "listOfRestrictions" : null,
+        "unitCategory" : "Static Defences",
+        "unitCost" : 25.0,
+        "unitID" : 31,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      }, {
+        "unitName" : "Command Bunker",
+        "listOfOptions" : null,
+        "listOfRestrictions" : null,
+        "unitCategory" : "Static Defences",
+        "unitCost" : 50.0,
+        "unitID" : 32,
+        "autoAddDictionary" : { },
+        "startingModels" : 1,
+        "listOfCurrencies" : { }
+      } ],
+      "listOfEquipmentOptions" : null,
+      "armyName" : "US Army",
+      "armyCategories" : [ "Infantry", "Artillery", "Steamer Tanks", "Other Mechanical Units", "Static Defenses" ]
+    }, {
+      "listOfRestrictions" : null,
+      "listOfUnits" : null,
+      "listOfEquipmentOptions" : null,
+      "armyName" : "Martians",
+      "armyCategories" : [ "Martian Tripods", "Martian Infantry", "Other Martian Machines", "Static Defenses" ]
+    }, {
+      "listOfRestrictions" : null,
+      "listOfUnits" : null,
+      "listOfEquipmentOptions" : null,
+      "armyName" : "BEF",
+      "armyCategories" : [ "Infantry", "Artillery", "Armored Vehicles", "Other Equipment in BEF Service" ]
+    } ],
+    "gameCategories" : [ ],
+    "listOfEquipmentOptions" : null,
+    "listOfCurrencies" : [ ]
+  } ]
+}
